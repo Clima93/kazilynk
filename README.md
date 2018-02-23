@@ -1,0 +1,2 @@
+# kazilynk
+Python Django
