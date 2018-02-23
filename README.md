@@ -1,2 +1,0 @@
-# kazilynk
-Python Django
